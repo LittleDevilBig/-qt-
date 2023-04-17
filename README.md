@@ -1,3 +1,3 @@
-# -qt-
-防丢
-18年暑假的小学期，大一的东西，找来留个纪念
+# use -qt- to implement a card game
+
+like  Slay the Spire
